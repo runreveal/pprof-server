@@ -14,7 +14,7 @@ require (
 	github.com/segmentio/objconv v0.0.0-20170810202704-5dca7cbec799
 	github.com/segmentio/stats v0.0.0-20170908015358-6da51b6c447b
 	github.com/uber/go-torch v0.0.0-20170825044957-ddbe52cdc30e
-	golang.org/x/net v0.7.0
+	golang.org/x/net v0.10.0
 	gopkg.in/validator.v2 v2.0.0-20170814132753-460c83432a98 // indirect
 	k8s.io/api v0.20.1
 	k8s.io/apimachinery v0.20.1
@@ -36,11 +36,11 @@ require (
 	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/crypto v0.1.0 // indirect
+	golang.org/x/crypto v0.17.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d // indirect
-	golang.org/x/sys v0.5.0 // indirect
-	golang.org/x/term v0.5.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/term v0.15.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e // indirect
 	google.golang.org/appengine v1.6.5 // indirect
 	google.golang.org/protobuf v1.25.0 // indirect
