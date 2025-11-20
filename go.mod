@@ -1,6 +1,6 @@
 module github.com/segmentio/pprof-server
 
-go 1.23.0
+go 1.24.0
 
 require (
 	github.com/fatih/color v1.7.0 // indirect
@@ -14,7 +14,7 @@ require (
 	github.com/segmentio/objconv v0.0.0-20170810202704-5dca7cbec799
 	github.com/segmentio/stats v0.0.0-20170908015358-6da51b6c447b
 	github.com/uber/go-torch v0.0.0-20170825044957-ddbe52cdc30e
-	golang.org/x/net v0.23.0
+	golang.org/x/net v0.47.0
 	gopkg.in/validator.v2 v2.0.0-20170814132753-460c83432a98 // indirect
 	k8s.io/api v0.20.1
 	k8s.io/apimachinery v0.20.1
@@ -36,11 +36,11 @@ require (
 	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/crypto v0.35.0 // indirect
+	golang.org/x/crypto v0.45.0 // indirect
 	golang.org/x/oauth2 v0.27.0 // indirect
-	golang.org/x/sys v0.30.0 // indirect
-	golang.org/x/term v0.29.0 // indirect
-	golang.org/x/text v0.22.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/term v0.37.0 // indirect
+	golang.org/x/text v0.31.0 // indirect
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
